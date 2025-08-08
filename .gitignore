@@ -1,0 +1,11 @@
+gpt2
+ch02.ipynb
+ch03.ipynb
+chapter2-data.ipynb
+chapter3-attention.ipynb
+chapter4-gptmodel.ipynb
+chapter5-pretraining
+the-verdict.txt
+model_and_optimizer.pth
+model.pth
+gpt_download.py
