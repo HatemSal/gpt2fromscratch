@@ -24,6 +24,8 @@ This project implements a GPT-2-like architecture from scratch in PyTorch and fi
 - Deciding which layers to fine-tune was non-trivial. Two experiments were run using Weights & Biases:
 	- Different combinations of trainable layers were tested.
 	- Based on results, the best performance was achieved by fine-tuning the classifier head, the final transformer block, and the final normalization layer.
+ <img width="1479" height="452" alt="image" src="https://github.com/user-attachments/assets/17e0cb42-d804-4a51-a3fc-eaa46d22163a" />
+
 
 ## Usage
 1. **Install dependencies** (see `requirements.txt` or use the environment from wandb logs).
