@@ -1,6 +1,6 @@
 import torch
 from torch import nn
-from multiheadatt import MultiHeadAttention
+from src.multiheadatt import MultiHeadAttention
 
 
 

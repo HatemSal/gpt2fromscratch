@@ -4,8 +4,16 @@ ch03.ipynb
 chapter2-data.ipynb
 chapter3-attention.ipynb
 chapter4-gptmodel.ipynb
-chapter5-pretraining
+chapter5-pretraining.ipynb
+chapter6-finetuning.ipynb
 the-verdict.txt
+sms_spam_collection.zip
 model_and_optimizer.pth
 model.pth
 gpt_download.py
+wandb
+dataloader.py
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
